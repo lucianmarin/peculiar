@@ -1,5 +1,7 @@
 # Peculiar
 
+![screenshot](screenshot.png)
+
 A free icon set drawn entirely in CSS — no images or fonts, and only one
 extra HTTP request for the stylesheet. 43 icons, each built from plain
 `<div>` elements on a 16×16px grid.
